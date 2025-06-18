@@ -5,10 +5,10 @@ class Car {
   int numberOfSeats = 0;
 
   void start() {
-     print('Car Started');
-    print('Name: $name');
-    print('Color: $color');
-    print('Number of Seats: $numberOfSeats');
+     print("Land Cruiser 100 Started");
+    print("Name: $name");
+    print("Color: $color");
+    print("Number of Seats: $numberOfSeats");
   }
   }
 
